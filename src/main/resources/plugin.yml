@@ -1,0 +1,8 @@
+name: TNTWands
+version: ${project.version}
+main: me.gushel.tntwands.TNTWands
+depend: [Factions,NBTAPI]
+commands:
+  tntwands:
+    description: Base Command for TNTWands
+
